@@ -17,4 +17,4 @@ Omarchy reads `colors.toml` and generates the terminal, shell, and app palettes.
 ## Wallpapers
 
 - **Canyon Sunset** and **Alpine Afterglow** were made with ImageGen using REO design references.
-- **REO Studio** and **REO at Dusk** use artwork from Frank Stephenson Design. The studio image also appears in `preview.webp`. [REO project gallery](https://www.frankstephenson.com/projects/reo/)
+- **REO Studio** and **REO at Dusk** use artwork from Frank Stephenson Design. [REO project gallery](https://www.frankstephenson.com/projects/reo/)
