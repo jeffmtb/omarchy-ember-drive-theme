@@ -9,7 +9,7 @@ A dark Omarchy theme with plum shadows, burnt-orange accents, warm ivory text, a
 Once this folder is in a public GitHub repo, substitute its owner and name in the install command.
 
 ```sh
-omarchy theme install https://github.com/YOUR-USERNAME/omarchy-ember-drive-theme.git
+omarchy theme install https://github.com/jeffmtb/omarchy-ember-drive-theme
 ```
 
 Omarchy reads `colors.toml` and generates the terminal, shell, and app palettes. The explicit ANSI keys are also available to theme galleries.
